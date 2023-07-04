@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'am Elena Ipatova
 
 <!--
 **habbena/habbena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+| Название проекта  | Описание                   | Tools    |
+|:------------------|:-------------------------- |:---------|
+| Row 1             | Cell 2                     | Cell 3   |
+| Row 2             | Cell 5                     | Cell 6   |
+| Row 3             | Cell 8                     | Cell 9   |
