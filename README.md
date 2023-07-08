@@ -10,10 +10,13 @@
 
 ### Мои учебные проекты:
 
-**SQL(PostgreSQL):**
+**SQL(PostgreSQL):** 🐘 
 
-sql_intensive интенсив по SQL🐘.  
-info21_v1 анализ и статистика данных. 
+[books](https://github.com/habbena/SQL/tree/main/books)  
+[cafes](https://github.com/habbena/SQL/tree/main/cafe)   
+[pizzerias](https://github.com/habbena/SQL/tree/main/pizzeria)  
+   
+   
 
 **Python:**
 
