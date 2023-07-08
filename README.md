@@ -20,7 +20,7 @@
 
 **Python:**
 
-[учебные проекты](https://github.com/habbena/Python/tree/main/21_school/notebooks) на курсе "Data Analytics" Школы 21 (Сбербанк)
+[курс "Data Analytics"](https://github.com/habbena/Python/tree/main/21_school/notebooks)  Школы 21 (Сбербанк)
 
 
 
