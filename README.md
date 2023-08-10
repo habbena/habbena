@@ -20,8 +20,8 @@
 
 **Python:**
 
-[курс "Data Analytics"](https://github.com/habbena/Python/tree/main/21_school/notebooks)  Школы 21 (Сбербанк)
-[Пояснительная записка по продажам Сбермаркета (тестовые данные)]
+[курс "Data Analytics"](https://github.com/habbena/Python/tree/main/21_school/notebooks)  Школы 21 (Сбербанк)    
+[пояснительная записка по продажам Сбермаркета (тестовые данные)](https://github.com/habbena/Python/tree/main/Sbermarket_1)
 
 
 
