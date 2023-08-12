@@ -9,8 +9,8 @@
 
 **SQL(PostgreSQL):** 🐘    
 [Traveling Salesman Problem Path Finder](https://github.com/habbena/TravellSalesProblem_SQL/blob/main/README.md)   
-[cafes](https://github.com/habbena/SQL/tree/main/cafe)   
-[pizzerias](https://github.com/habbena/SQL/tree/main/pizzeria)  
+[create db for cafes](https://github.com/habbena/SQL/tree/main/cafe)   
+[queries for db pizzerias](https://github.com/habbena/SQL/tree/main/pizzeria)  
    
    
 
